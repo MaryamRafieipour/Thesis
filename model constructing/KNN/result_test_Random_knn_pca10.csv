@@ -1,0 +1,27 @@
+Confusion Matrix and Statistics
+
+                Reference
+Prediction       interaction noninteraction
+  interaction             23             10
+  noninteraction           7             20
+                                          
+               Accuracy : 0.7167          
+                 95% CI : (0.5856, 0.8255)
+    No Information Rate : 0.5             
+    P-Value [Acc > NIR] : 0.0005329       
+                                          
+                  Kappa : 0.4333          
+                                          
+ Mcnemar's Test P-Value : 0.6276258       
+                                          
+            Sensitivity : 0.7667          
+            Specificity : 0.6667          
+         Pos Pred Value : 0.6970          
+         Neg Pred Value : 0.7407          
+             Prevalence : 0.5000          
+         Detection Rate : 0.3833          
+   Detection Prevalence : 0.5500          
+      Balanced Accuracy : 0.7167          
+                                          
+       'Positive' Class : interaction     
+                                          
