@@ -1,0 +1,13 @@
+"metod","score"
+"sen_independent_Random_knn50",0.133333333333333
+"sen_independent_Random_knn100",0.2
+"sen_independent_Random_knn150",0.4
+"sen_independent_Random_knn200",0.2
+"sen_independent_Random_knn_pca5",0.0666666666666667
+"sen_independent_Random_knn_pca10",0.133333333333333
+"sen_independent_SDD_knn50",0.6
+"sen_independent_SDD_knn100",0.6
+"sen_independent_SDD_knn150",0.466666666666667
+"sen_independent_SDD_knn200",0.8
+"sen_independent_SDD_knn_pca5",0.466666666666667
+"sen_independent_SDD_knn_pca10",0.6
